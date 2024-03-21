@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP,Laravel,PostgreSQL.**
 
-- 🤝 I’m looking for help with [Alebrijes_Sitio](https://github.com/MtzAna26/Alebrijes_Sitio.git)
+- 🤝 I’m looking for help with [EncuestaTec]((https://github.com/MtzAna26/EncuestaTec.git))
 
 - 👨‍💻 All of my projects are available at [https://mtzana26.github.io/](https://mtzana26.github.io/)
 

@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋🏽, I'm Ana María</h1>
+<h1 align="center">Hi 👩🏽‍💻, I'm Ana María</h1>
 <h3 align="center">Computer Systems Engineering student in Zacatecas with a passionate focus on backend and cybersecurity. My goal is to build innovative and secure solutions in the digital world.</h3>
 
-- 🔭 I’m currently working on [Alebrijes_Sitio](https://github.com/MtzAna26/Alebrijes_Sitio.git)
+- 🔭 I’m currently working on [EncuestaTec]((https://github.com/MtzAna26/EncuestaTec.git))
 
 - 🌱 I’m currently learning **PHP,Laravel,PostgreSQL.**
 

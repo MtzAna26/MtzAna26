@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://mtzana26.github.io/](https://mtzana26.github.io/)
 
-- 💬 Ask me about **Python, HTML, CSS, JS.**
+- 💬 Ask me about **PHP, HTML, CSS, JS.**
 
-- 📫 How to reach me **ana.martinez.g5.ofimatica@gmail.com**
+- 📫 How to reach me **ana.martinez.g5.ofimatica@gmail.com o martinez.anamaria0626@gmail.com**
 
 - ⚡ Fun fact **When I program I like to see the pink panther, I like to believe that it gives solutions to the code.**
 

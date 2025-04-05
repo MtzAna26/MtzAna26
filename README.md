@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👩🏽‍💻, I'm Ana María</h1>
-<h3 align="center">Computer Systems Engineering student in Zacatecas with a passionate focus on backend and web design. My goal is to build innovative and secure solutions in the digital world.</h3>
+<h3 align="center">Computer Systems Engineering  with a passionate focus on backend and web design. My goal is to build innovative and secure solutions in the digital world.</h3>
 
-- 🔭 I’m currently working on [EncuestaTec](https://github.com/MtzAna26/EncuestaTec.git)
+- 🌱 I’m currently learning **JAVA.**
 
-- 🌱 I’m currently learning **PHP,Laravel,PostgreSQL.**
-
-- 🤝 I’m looking for help with [EncuestaTec](https://github.com/MtzAna26/EncuestaTec.git)
 
 - 👨‍💻 All of my projects are available at [https://mtzana26.github.io/](https://mtzana26.github.io/)
 

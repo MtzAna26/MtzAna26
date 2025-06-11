@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mtzana26.github.io/](https://mtzana26.github.io/)
 
-- 💬 Ask me about **PHP, HTML, CSS, JS.**
+- 💬 Ask me about **PHP, HTML, CSS, JS, Python.**
 
 - 📫 How to reach me **ana.martinez.g5.ofimatica@gmail.com o martinez.anamaria0626@gmail.com**
 

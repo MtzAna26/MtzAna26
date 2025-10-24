@@ -7,7 +7,7 @@ Soy ingeniera en sistemas informáticos con enfoque en desarrollo web y backend.
 
 - 📫 Cómo contactarme **ana.martinez.g5.ofimatica@gmail.com** o **martinez.anamaria0626@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Herramientas:</h3>
 <p align="left">
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">

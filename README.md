@@ -5,20 +5,7 @@ Soy ingeniera en sistemas informáticos con enfoque en desarrollo web y backend.
 
 - 💬 Pregúntame sobre **Java, PHP, Spring, JS, MySQL**
 
-- 📫 Cómo contactarme **ana.martinez.g5.ofimatica@gmail.com**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/anaamariamtz" target="blank"><img align="center" Lenguajes y herramientas: 
-
-Hola 👋, soy Ana María.
-Soy ingeniera en sistemas informáticos con enfoque en desarrollo web y backend. Me apasiona crear soluciones digitales seguras, eficientes y con propósito. Siempre aprendiendo, siempre mejorando.</h3>
-
-- 🔭 Actualmente estoy trabajando en [aprende_java_con_lassie_palomo_cat](https://github.com/MtzAna26/aprende_java_con_lassie_palomo_cat.git)
-
-- 💬 Pregúntame sobre **Java, PHP, Spring, JS, MySQL**
-
-- 📫 Cómo contactarme **ana.martinez.g5.ofimatica@gmail.com**
+- 📫 Cómo contactarme **ana.martinez.g5.ofimatica@gmail.com** o **martinez.anamaria0626@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -69,7 +56,5 @@ Soy ingeniera en sistemas informáticos con enfoque en desarrollo web y backend.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtzana26&show_icons=true&locale=es&layout=compact" alt="mtzana26" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtzana26&show_icons=true&locale=es&layout=compact" alt="mtzana26" /></p>

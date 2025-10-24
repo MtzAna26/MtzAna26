@@ -9,8 +9,7 @@ Soy ingeniera en sistemas informáticos con enfoque en desarrollo web y backend.
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/anaamariamtz" target="blank"><img align="center" Lenguajes y herramientas
-:
+<a href="https://linkedin.com/in/linkedin.com/in/anaamariamtz" target="blank"><img align="center" Lenguajes y herramientas: 
 
 
 
